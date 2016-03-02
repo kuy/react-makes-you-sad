@@ -1,9 +1,9 @@
 # react-makes-you-sad
-Here’s a flowchart to make you happy again!
+もう一度あなたを幸せにするフローチャートです!
 
-## <a href='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg' target='_blank'>Open in a new tab</a>
+## <a href='https://cdn.rawgit.com/kuy/react-makes-you-sad/39238dcc16f80abfa092df181591d261e44623e2/fatigue.svg' target='_blank'>新しいタブで開く</a>
 
-<img src='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg'>
+<img src='https://cdn.rawgit.com/kuy/react-makes-you-sad/39238dcc16f80abfa092df181591d261e44623e2/fatigue.svg'>
 
 ## Credits
 
